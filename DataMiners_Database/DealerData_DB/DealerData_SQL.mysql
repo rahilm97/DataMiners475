@@ -1,0 +1,12 @@
+
+CREATE TABLE CAR
+(
+	vin_num		VARCHAR(17)     NOT NULL,
+	use_status	ENUM('new', 'used'),
+	mileage		INT,
+	color		VARCHAR(10),
+	c_trimlevel VARCHAR(10),
+	d_dealerid  INT,
+	cust_id     INT,
+	PRIMARY KEY(vin_num)
+)
