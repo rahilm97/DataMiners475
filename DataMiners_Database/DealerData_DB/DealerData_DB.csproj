@@ -53,11 +53,29 @@
     <Compile Include="AddCars.Designer.cs">
       <DependentUpon>AddCars.cs</DependentUpon>
     </Compile>
+    <Compile Include="AddSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSale.Designer.cs">
+      <DependentUpon>AddSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddServiceRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddServiceRecord.Designer.cs">
+      <DependentUpon>AddServiceRecord.cs</DependentUpon>
+    </Compile>
     <Compile Include="CarSearch.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CarSearch.Designer.cs">
       <DependentUpon>CarSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSearch.Designer.cs">
+      <DependentUpon>CustomerSearch.cs</DependentUpon>
     </Compile>
     <Compile Include="DealerData.cs">
       <SubType>Form</SubType>
@@ -67,6 +85,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchServices.Designer.cs">
+      <DependentUpon>SearchServices.cs</DependentUpon>
+    </Compile>
     <Compile Include="SqlConnection.cs" />
     <EmbeddedResource Include="CarSearch.resx">
       <DependentUpon>CarSearch.cs</DependentUpon>

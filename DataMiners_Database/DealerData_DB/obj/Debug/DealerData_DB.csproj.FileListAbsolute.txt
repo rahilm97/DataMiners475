@@ -10,3 +10,6 @@ C:\Users\rahil\Documents\Visual Studio 2015\Projects\DataMiners_Database\DealerD
 C:\Users\rahil\Documents\Visual Studio 2015\Projects\DataMiners_Database\DealerData_DB\bin\Debug\MySql.Data.xml
 C:\Users\rahil\Documents\Visual Studio 2015\Projects\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.CarSearch.resources
 C:\Users\rahil\Documents\Visual Studio 2015\Projects\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.DealerData.resources
+C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\bin\Debug\DealerData_DB.exe.config
+C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.exe
+C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.pdb
