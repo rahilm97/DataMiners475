@@ -23,3 +23,4 @@ C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners
 C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.DealerData.resources
 C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.Properties.Resources.resources
 C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.csproj.GenerateResource.Cache
+C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.AddSale.resources
