@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Rahil Mehta, Tavi Tenari, Stan Huber, Chayse Summers
+ * SqlConnection.cs
+ * CSS 475 Database Project
+ * 
+ * This static class contains the MySQL connection string for the database.
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
