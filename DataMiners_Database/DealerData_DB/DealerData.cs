@@ -15,7 +15,7 @@ namespace DealerData_DB
     {
         public DealerData()
         {
-            SqlConnection.connection.Open();
+            //SqlConnection.connection.Open();
             InitializeComponent();
         }
 

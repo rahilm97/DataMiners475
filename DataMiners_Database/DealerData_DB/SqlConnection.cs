@@ -10,8 +10,7 @@ namespace DealerData_DB
 {
     class SqlConnection
     {
-        public static MySqlConnection connection = new MySqlConnection("Server=css475dbinstance.cs0surzhmcrb.us-east-2.rds.amazonaws.com;"
-            + " Port=3306; Database=dataminersDealerData; Uid=dataminers475; Pwd=DATAminers;");
+        public static MySqlConnection connection = new MySqlConnection("server=css475dbinstance.cs0surzhmcrb.us-east-2.rds.amazonaws.com;user id=dataminers475;password=DATAminers;persistsecurityinfo=True;database=dataminersDealerData");
         public static MySqlCommand command;
         public static MySqlDataReader dataReader;
     }
