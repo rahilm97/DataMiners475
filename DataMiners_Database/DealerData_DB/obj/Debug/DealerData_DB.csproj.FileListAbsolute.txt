@@ -24,6 +24,7 @@ C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners
 C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.Properties.Resources.resources
 C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.csproj.GenerateResource.Cache
 C:\UWB\Year 3 - Fall Quarter\CSS 475 - Database Systems\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.AddSale.resources
+<<<<<<< HEAD
 C:\Users\gtena\Desktop\db\DataMiners475\DataMiners_Database\DealerData_DB\bin\Debug\DealerData_DB.exe.config
 C:\Users\gtena\Desktop\db\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.exe
 C:\Users\gtena\Desktop\db\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.pdb
@@ -39,3 +40,19 @@ C:\Users\gtena\Desktop\db\DataMiners475\DataMiners_Database\DealerData_DB\obj\De
 C:\Users\gtena\Desktop\db\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.SearchServices.resources
 C:\Users\gtena\Desktop\db\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.csproj.GenerateResource.Cache
 C:\Users\gtena\Desktop\db\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.AddServiceRecord.resources
+=======
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\bin\Debug\DealerData_DB.exe.config
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.exe
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.pdb
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\bin\Debug\DealerData_DB.exe
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\bin\Debug\DealerData_DB.pdb
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\bin\Debug\MySql.Data.xml
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.csprojResolveAssemblyReference.cache
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.AddSale.resources
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.CarSearch.resources
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.CustomerSearch.resources
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.DealerData.resources
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.Properties.Resources.resources
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.csproj.GenerateResource.Cache
+C:\Users\huberbrandon23\Documents\UWFall17\CSS475\Project\DataMiners475\DataMiners_Database\DealerData_DB\obj\Debug\DealerData_DB.AddCars.resources
+>>>>>>> origin/master

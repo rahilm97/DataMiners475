@@ -98,6 +98,9 @@
       <DependentUpon>SearchServices.cs</DependentUpon>
     </Compile>
     <Compile Include="SqlConnection.cs" />
+    <EmbeddedResource Include="AddCars.resx">
+      <DependentUpon>AddCars.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AddSale.resx">
       <DependentUpon>AddSale.cs</DependentUpon>
     </EmbeddedResource>
