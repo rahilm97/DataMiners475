@@ -101,6 +101,9 @@
     <EmbeddedResource Include="AddSale.resx">
       <DependentUpon>AddSale.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AddServiceRecord.resx">
+      <DependentUpon>AddServiceRecord.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CarSearch.resx">
       <DependentUpon>CarSearch.cs</DependentUpon>
     </EmbeddedResource>
@@ -119,6 +122,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SearchServices.resx">
+      <DependentUpon>SearchServices.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="dataminersDealerDataDataSet.xsc">
       <DependentUpon>dataminersDealerDataDataSet.xsd</DependentUpon>
     </None>
